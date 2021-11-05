@@ -1,11 +1,11 @@
-# Django AJAX GET POST guide repository
+# Sample FORM
 
 ## Installation guide
 
 1. Clone repository
 
     `
-    git clone https://github.com/krazygaurav/django_ajax_guide
+    git clone https://github.com/Ritabratadas343/SampleForm.git
     `
 
 2. cd to repository.
